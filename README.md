@@ -6,16 +6,19 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
