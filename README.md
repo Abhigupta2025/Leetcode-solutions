@@ -18,6 +18,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -56,4 +57,12 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
