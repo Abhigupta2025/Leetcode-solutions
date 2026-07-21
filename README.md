@@ -18,12 +18,14 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0001-two-sum) |
 | [1260-shift-2d-grid](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0001-two-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
