@@ -6,6 +6,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -21,6 +22,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -91,5 +93,6 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
