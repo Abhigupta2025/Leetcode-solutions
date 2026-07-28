@@ -58,6 +58,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -96,9 +97,14 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
