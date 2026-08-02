@@ -8,6 +8,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -27,6 +28,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | [0001-two-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -126,6 +128,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -134,4 +137,5 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
