@@ -51,6 +51,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | [1386-cinema-seat-allocation](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -81,6 +82,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | ------- |
 | [0001-two-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -96,6 +98,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -221,6 +224,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 | [0877-stone-game](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -296,6 +300,7 @@ Collection of my LeetCode solutions in Java for coding interview preparation.
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhigupta2025/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
